@@ -18,7 +18,7 @@ const timeout = 15000;//超时时间(单位毫秒)
 // =======================================微信server酱通知设置区域===========================================
 //此处填你申请的SCKEY.
 //(环境变量名 PUSH_KEY)
-let SCKEY = 'SCT32451TEcmIc8dpQseygH679AvMaVC8';
+let SCKEY = '';
 // =======================================QMSG酱通知设置区域===========================================
 //此处填你申请的QMSG_KEY.
 let QMSG_KEY = '';
@@ -64,7 +64,7 @@ let QYWX_KEY = '';
 - 文本消息: 1 (数字一)
 - 图文消息（mpnews）: 素材库图片id, 可查看此教程(http://note.youdao.com/s/HMiudGkb)或者(https://note.youdao.com/ynoteshare1/index.html?id=1a0c8aff284ad28cbd011b29b3ad0191&type=note)
 */
-let QYWX_AM = '';
+let QYWX_AM = 'ww3ec741b78d514a71,3o-MYFJseD0hk3zbCVWhkBtHPD4wY6dgg0FODxa8NW0,@all,1000003,0';
 
 // =======================================iGot聚合推送通知设置区域===========================================
 //此处填您iGot的信息(推送key，例如：https://push.hellyw.com/XXXXXXXX)
